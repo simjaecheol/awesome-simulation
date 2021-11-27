@@ -25,6 +25,10 @@ Languages: python 3
 
 Physics Engine: bullet
 
+* [pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementation of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
+* [pybullet_robots](https://github.com/erwincoumans/pybullet_robots) - Prototyping robots for PyBullet
+* [gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control
+
 
 ## [MuJoCo](https://mujoco.org)
 
