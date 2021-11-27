@@ -42,6 +42,7 @@ Languages: C
 
 Physics Engine: MuJoCo
 
+* [dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation
 * [mujoco-py](https://github.com/openai/mujoco-py) - mujoco-py allows using MuJoCo from Python 3
 
 ## [Gazebo](http://gazebosim.org/)
