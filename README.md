@@ -27,8 +27,15 @@ Physics Engine: bullet
 
 * [pybullet-gym](https://github.com/benelot/pybullet-gym) - Open-source implementation of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
 * [pybullet_robots](https://github.com/erwincoumans/pybullet_robots) - Prototyping robots for PyBullet
+* [ravens](https://github.com/google-research/ravens) - Train robotic agents to learn pick and place with deep learning for vision-based manipulation in PyBullet. Transporter Nets, CoRL 2020.
 * [gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control
-
+* [pybullet-planning](https://github.com/caelan/pybullet-planning) - PyBullet Planning
+* [pybullet_planning](https://github.com/yijiangh/pybullet_planning) - A suite of utility functions to facilitate robotic planning related research on the pybullet physics simulation engine.
+* [pybullet-robot-envs](https://github.com/robotology-playground/pybullet-robot-envs)
+* [pybullet_rendering](https://github.com/ikalevatykh/pybullet_rendering) - External rendering for PyBullet
+* [quadruped_ctrl](https://github.com/Derek-TH-Wang/quadruped_ctrl) - MIT mini cheetah quadruped robot simulated in pybullet environment using ros.
+* [panda-gym](https://github.com/qgallouedec/panda-gym) - OpenaAI Gym Franka Emika Panda robot environment based on PyBullet.
+* [pybullet_multigoal_gym](https://github.com/IanYangChina/pybullet_multigoal_gym) - Pybullet version of the multigoal robotics environment from OpenAI Gym
 
 ## [MuJoCo](https://mujoco.org)
 
@@ -44,6 +51,12 @@ Physics Engine: MuJoCo
 
 * [dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation
 * [mujoco-py](https://github.com/openai/mujoco-py) - mujoco-py allows using MuJoCo from Python 3
+* [mujoco-worldgen](https://github.com/openai/mujoco-worldgen) - Automatic object XML generation for Mujoco
+* [mjrl](https://github.com/aravindr93/mjrl) - Reinforcement learning algorithms for MuJoCo tasks
+* [multiagent_mujoco](https://github.com/schroederdewitt/multiagent_mujoco) - Benchmark for Continuous Multi Agent Robotic Control, based on OpenAI's Mujoco Gym environments
+* [metaworld](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+* [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim) - A simulation library for Agility Robotics' Cassie robot using MuJoCo
+* [MuJoCo_RL_UR5](https://github.com/PaulDanielML/MuJoCo_RL_UR5) - A MuJoCo/Gym environment for robot control using Reinforcement Learning. The task of agents in this environment is pixel-wise prediction of grasp success chances.
 
 ## [Gazebo](http://gazebosim.org/)
 
