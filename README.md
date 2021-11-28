@@ -9,6 +9,9 @@ A curated list of awesome simulation frameworks and projects
     - [Gazebo](#Gazebo)
     - [Unreal Engine](#Unreal-Engine)
 
+- [Reinforcement Learning Toolkit](#Reinforcement-Learning-Platform)
+    - [Open AI Gym](#Open-AI-Gym)
+
 - [Contributing](#contributing)
 
 ---
@@ -68,6 +71,17 @@ Support Languagues: C++, Python
 
 Physics: ODE, Bullet, Simbody and DART
 
+* [osrf/gazebo_tutorials](https://github.com/osrf/gazebo_tutorials) - Tutorials for gazebo
+* [ros-simulation/gazebo_ros_pkgs](https://github.com/ros-simulation/gazebo_ros_pkgs) - Wrappers, tools and additional API's for using ROS with Gazebo
+* [osrf/gazebo_models](https://github.com/osrf/gazebo_models) - Model database
+* [PX4/PX4-SITL_gazebo](https://github.com/PX4/PX4-SITL_gazebo) - Set of plugins, models and worlds to use with OSRF Gazebo Simulator in SITL and HITL.
+* [robin-shaun/XTDrone](https://github.com/robin-shaun/XTDrone) - UAV Simulation Platform based on PX4, ROS and Gazebo
+* [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - RotorS is a UAV gazebo simulator
+* [lihuang3/ur5_ROS-Gazebo](https://github.com/lihuang3/ur5_ROS-Gazebo) - Universal Robot (UR5) Pick and Place Simulation in ROS-Gazebo with a USB Cam and Vacuum Grippers
+* [ignitionrobotics/ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo) - Open source robotics simulator. Through Ignition Gazebo users have access to high fidelity physics, rendering, and sensor models.
+* [turtlebot/turtlebot_simulator](https://github.com/turtlebot/turtlebot_simulator) - Launcers for Gazebo simulation of the TurtleBot
+* [mit-racecar/racecar_gazebo](https://github.com/mit-racecar/racecar_gazebo) - A gazebo-based simulator of the MIT Racecar.
+
 ## [Unreal Engine](https://www.unrealengine.com/en-US/)
 
 [Github](https://github.com/EpicGames/UnrealEngine)
@@ -84,6 +98,16 @@ Physics Engine: PhyX
 
 * [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Embed Python in Unreal Engine 4
 * [UnrealCV](https://github.com/unrealcv/unrealcv) - Connecting Computer Vision to Unreal Engine
+
+# Reinforcement Learning Toolkit
+
+## [Open AI Gym](https://gym.openai.com/)
+
+[Github](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+
+License: MIT License
+
+Language: Python
 
 # Contributing
 
