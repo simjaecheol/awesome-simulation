@@ -84,6 +84,7 @@ Physics: ODE, Bullet, Simbody and DART
 * [ignitionrobotics/ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo) - Open source robotics simulator. Through Ignition Gazebo users have access to high fidelity physics, rendering, and sensor models.
 * [turtlebot/turtlebot_simulator](https://github.com/turtlebot/turtlebot_simulator) - Launcers for Gazebo simulation of the TurtleBot
 * [mit-racecar/racecar_gazebo](https://github.com/mit-racecar/racecar_gazebo) - A gazebo-based simulator of the MIT Racecar.
+* [fkromer/awesome-gazebo](https://github.com/fkromer/awesome-gazebo) - Gazebo, the simulation framework for ROS1 and ROS2 is awesome!
 
 ## [Brax](https://arxiv.org/abs/2106.13281)
 
