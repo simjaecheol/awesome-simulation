@@ -109,6 +109,12 @@ License: MIT License
 
 Language: Python
 
+## [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+
+License: Apache 2.0
+
+Language: C#, Python
+
 # Contributing
 
 Your contributions are always welcome!
