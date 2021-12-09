@@ -11,6 +11,7 @@ A curated list of awesome simulation frameworks and projects
 
 - [Reinforcement Learning Toolkit](#Reinforcement-Learning-Platform)
     - [Open AI Gym](#Open-AI-Gym)
+    - [MLAgent](#unity-technologies/ml-agents)
 
 - [Contributing](#contributing)
 
