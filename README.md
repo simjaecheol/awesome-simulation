@@ -7,11 +7,13 @@ A curated list of awesome simulation frameworks and projects
     - [PyBullet](#PyBullet)
     - [MuJoCo](#MuJoCo)
     - [Gazebo](#Gazebo)
+    - [Brax](#Brax)
+    - [NVIDIA-Omniverse](#NVIDIA-Omniverse)
     - [Unreal Engine](#Unreal-Engine)
 
 - [Reinforcement Learning Toolkit](#Reinforcement-Learning-Platform)
     - [Open AI Gym](#Open-AI-Gym)
-    - [MLAgent](#unity-technologies/ml-agents)
+    - [MLAgent](#ml-agents)
 
 - [Contributing](#contributing)
 
@@ -83,6 +85,21 @@ Physics: ODE, Bullet, Simbody and DART
 * [turtlebot/turtlebot_simulator](https://github.com/turtlebot/turtlebot_simulator) - Launcers for Gazebo simulation of the TurtleBot
 * [mit-racecar/racecar_gazebo](https://github.com/mit-racecar/racecar_gazebo) - A gazebo-based simulator of the MIT Racecar.
 
+## [Brax](https://arxiv.org/abs/2106.13281)
+
+[Github](https://github.com/google/brax)
+
+License: Apache 2.0
+
+Support Languages: Python
+
+## [NVIDIA-Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform)
+
+[IsaacSim](https://developer.nvidia.com/isaac-sim)
+[IsaacGym](https://developer.nvidia.com/isaac-gym)
+[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
+
+
 ## [Unreal Engine](https://www.unrealengine.com/en-US/)
 
 [Github](https://github.com/EpicGames/UnrealEngine)
@@ -110,7 +127,7 @@ License: MIT License
 
 Language: Python
 
-## [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+## [ml-agents](https://github.com/Unity-Technologies/ml-agents)
 
 License: Apache 2.0
 
