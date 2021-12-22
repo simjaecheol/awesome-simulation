@@ -10,6 +10,7 @@ A curated list of awesome simulation frameworks and projects
     - [Brax](#Brax)
     - [NVIDIA-Omniverse](#NVIDIA-Omniverse)
     - [Unreal Engine](#Unreal-Engine)
+    - [Unity](#Unity)
 
 - [Reinforcement Learning Toolkit](#Reinforcement-Learning-Platform)
     - [Open AI Gym](#Open-AI-Gym)
@@ -96,11 +97,13 @@ Support Languages: Python
 
 ## [NVIDIA-Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform)
 
-[IsaacSim](https://developer.nvidia.com/isaac-sim)
+Physics: PhysicsX
 
-[IsaacGym](https://developer.nvidia.com/isaac-gym)
+* [IsaacSim](https://developer.nvidia.com/isaac-sim)
 
-[IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
+* [IsaacGym](https://developer.nvidia.com/isaac-gym)
+
+* [IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 
 
 ## [Unreal Engine](https://www.unrealengine.com/en-US/)
@@ -119,6 +122,12 @@ Physics Engine: PhyX
 
 * [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Embed Python in Unreal Engine 4
 * [UnrealCV](https://github.com/unrealcv/unrealcv) - Connecting Computer Vision to Unreal Engine
+* [Carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
+
+## [Unity](https://unity.com/)
+
+* [LG SVL Simulator](https://github.com/lgsvl/simulator) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+
 
 # Reinforcement Learning Toolkit
 
