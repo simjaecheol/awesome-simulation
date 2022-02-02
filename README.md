@@ -17,7 +17,7 @@ A curated list of awesome simulation frameworks and projects
     - [MLAgent](#ml-agents)
 
 - [Renderer](#Renderer)
-    - [NVIDIA/nvisii](#NVIDIA/nvisii)
+    - [NVIDIA/nvisii](#nvisii)
 
 - [Contributing](#contributing)
 
@@ -150,7 +150,7 @@ Language: C#, Python
 
 # Renderer
 
-## [NVIDIA/nvisii](https://nvisii.com/)
+## [nvisii](https://nvisii.com/)
 
 [Github](https://github.com/owl-project/NVISII) - A python-enabled ray tracing based renderer built on top of NVIDIA OptiX (C++/CUDA backend).
 
