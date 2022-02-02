@@ -16,6 +16,9 @@ A curated list of awesome simulation frameworks and projects
     - [Open AI Gym](#Open-AI-Gym)
     - [MLAgent](#ml-agents)
 
+- [Renderer](#Renderer)
+    - [NVIDIA/nvisii](#NVIDIA/nvisii)
+
 - [Contributing](#contributing)
 
 ---
@@ -144,6 +147,17 @@ Language: Python
 License: Apache 2.0
 
 Language: C#, Python
+
+# Renderer
+
+## [NVIDIA/nvisii](https://nvisii.com/)
+
+[Github](https://github.com/owl-project/NVISII) - A python-enabled ray tracing based renderer built on top of NVIDIA OptiX (C++/CUDA backend).
+
+LICENSE: Apache 2.0
+
+Launguage: C, C++
+
 
 # Contributing
 
